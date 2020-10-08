@@ -15,6 +15,6 @@ Trends and popularity largely drive social media in the modern age. There are ov
 We hope to use this market to create a project that can identify key variables to increase the ratio of the number of likes on a post to the number of average likes a user gets on a post. Using these features, we want to evaluate this relationship so that posts can be optimized to be most exposed to influencers as well as ordinary users. Also, we may come across unexpected templates in the characteristics of popular instagram posts, such as the use of a certain image processing filter and / or certain hashtags
 </br>
 ### Technology used:
-• Searching and collecting data was done manually, and then the data was "refined" using the OpenRefine tool;
-• Customizing data for analysis, transformation and data analysis and evaluation was done in part in the RapidMiner software environment. 
+• Searching and collecting data was done manually, and then the data was "refined" using the OpenRefine tool;</br>
+• Customizing data for analysis, transformation and data analysis and evaluation was done in part in the RapidMiner software environment. </br>
 • Semantic analysis was done using NLP techniques, in particular: Stanford CoreNLP, http://nlp.stanford.edu/software/.
